@@ -1,0 +1,248 @@
+/* navbarın arkaplan rengi */
+ .bg-nav 
+{
+    background-color:yellowgreen;
+   
+}
+.space
+{
+padding:5%;
+}
+.logo-boy
+{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow:hidden ;
+}
+
+.word
+{
+    text-decoration: none;
+    color: crimson;
+}
+.container1
+{
+    background: url(brandi-redd-aJTiW00qqtI-unsplash.jpg);
+    height:100vh;
+    
+}
+/*özgeçmişim*/
+.container2
+{
+    position:relative;
+    width: 80%;
+    margin: 50px;
+    
+    height: 750px;
+    background-color:#fff;
+    display: grid;
+    grid-template-columns:1fr 2fr ;
+     box-shadow:0 35px 55px rgba(0, 0, 0, 0,1) ;
+}
+.left-side
+{
+    position:relative;
+    background-color:#afeeee ;
+    padding: 40px;
+}
+.right-side
+{
+    position:relative;
+    background-color: honeydew;
+    padding: 40px;
+}
+.profile-text
+{
+position: relative;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-bottom: 20px;
+border-bottom: 1px solid rgba(12, 12, 12, 0.5)
+}
+.profile-text .img-bx
+{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow:hidden ;
+}
+.profile-text .img-bx img
+{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.profile-text  h3
+{
+color:Indigo;
+font-size: 1.5em;
+margin-top: 20px;
+text-transform: uppercase;
+text-align: center ;
+font-weight: 600;
+line-height: 1.4em;
+}
+.profile-text  h3 span
+{
+    font-size: 0.8em;
+
+}
+
+
+.img-bx h3
+{
+    color:fff;
+    font-size: 1.5em;
+     margin: top px; 
+     text-transform: uppercase;
+     text-align:center;
+     font-weight: 600;
+     line-height: 1.4em;
+
+}
+.title
+{
+    color: slategray;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom:20px ;
+    margin-top: 20px;
+}
+.contact-info ul
+{
+position:relative;
+
+}
+.contact-info ul li
+{
+    position:relative;
+    list-style: none;
+    margin: 10px 0 ;
+    cursor: pointer;
+}
+.contact-info ul li .icon
+{
+    display:inline-block;
+    width:30px;
+    font-size:18px;
+    color:maroon;
+}
+.contact-info ul li span
+{
+color: darkslategray;
+font-weight: 300;
+
+}
+.foreign-language  ul  .icon
+{
+ display: inline-block;
+    width:30px;
+    font-size:18px;
+    color:darkblue;
+}
+.foreign-language  ul  span
+{
+    
+    color: darkslategray;
+    font-weight: 300;   
+}
+.about ul li
+{
+    list-style: none;
+}
+.about ul li a
+{
+    color: darkslategray;
+    font-weight: 600;  
+}
+/*ŞEHRİM*/
+.syş /* slider a daki yazı şekli*/
+{
+    
+  
+    color:white;
+    font-weight: 500;
+    list-style: none;
+    ;
+
+}
+
+.right-side-2
+{
+ 
+    position:relative;
+    
+  
+ 
+    height: 100%;
+    background-image: url(elma.jpg);
+    background-repeat:no-repeat ;
+   background-position: center;
+      background-size: 90%;
+}
+.side div
+{
+    
+margin-left: 30%;
+margin-right: 30%;
+   padding-top: 10%;
+    
+}
+.container2 h1
+{
+    color: white;
+    
+    margin-left: 18%;
+    margin-top: 13%;
+    
+}
+.article1
+{
+  
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: white;
+    
+    font-weight: 100%;
+    
+}
+.left-side-2
+{
+    position:relative;
+    background-color:#afeeee ;
+    padding: 40px;
+}
+
+
+.pokemon
+{
+background: #f1f1f1;
+min-width: 180px;
+text-align: center;
+padding: 25px;
+border-radius: 6px;
+border:10px#f8d41f
+
+}
+.iletisimbg
+{
+background: Cyan;
+}
+
+
+.container5{
+    height:100vh;
+    
+}
+
+
+
+
